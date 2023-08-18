@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/XiaoqiWang/XiaoqiWang/img.gif" />
+<img src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/img.gif" />
 <p align="center">
   
 ## 👋 Hey I'm xiaoqi. Delighted to cross paths with you!
