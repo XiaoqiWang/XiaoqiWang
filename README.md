@@ -1,3 +1,7 @@
+</p align="center">
+<img src="https://github.com/XiaoqiWang/XiaoqiWang/img.gif" />
+<p align="center">
+  
 ## 👋 Hey I'm xiaoqi. Delighted to cross paths with you!
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoMGd5N2E2eHE1eDIwczhoeWU0cGxqNDhtYmFsNWt5eWw4NWNubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcCxcr9HEEHICQ8ax1/giphy.gif" width="22"> [![Mail](https://img.shields.io/badge/email-wangxq79@mail2.sysu.edu.cn-darkgreen?logo=Gmail&logoColor=darkgreen&labelColor=black)](mailto:wangxq79@mail2.sysu.edu.cn) [![Mail](https://img.shields.io/badge/gmail-xqwang0311@gmail.com-darkgreen?logo=Gmail&logoColor=darkgreen&labelColor=black)](mailto:xqwang0311@gmail.com)
 
