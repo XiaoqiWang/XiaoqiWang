@@ -1,12 +1,12 @@
-
 <h2><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Hey there! Delighted to cross paths with you! </h2>
+
 
 <img align="right" width=448 height=252 src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/img.gif" />
 <h2>⚡️ About Me </h2>
 <ul>
 <li> I'm xiaoqi, a PhD student at <a href="https://www.sysu.edu.cn/"><strong>SYSU</strong></a>.</li>
-<li> Previously, I obtained my M.Eng. degree from <a href="http://www.njupt.edu.cn/en/"><strong>JUPT</strong></a>.</li>
+<li> Previously, I obtained my M.Eng. degree from <a href="http://www.njupt.edu.cn/en/"><strong>NJUPT</strong></a>.</li>
 <li> My research interests include <strong>computer vision, multimodal learning</strong>, and <strong>visual quality assessment</strong>.
 <li> My athletic passions encompass <strong>🏀</strong>, <strong>🏸</strong>, and <strong>🏃</strong>.
 </ul>
@@ -22,5 +22,5 @@ Hey there! Delighted to cross paths with you! </h2>
   </div>
 <hr/>
        
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7AA71&center=true&width=450&height=30&lines=Don't+bank+on+others'+victory.++;Forge+your+own+path%2C+make+history.)](https://git.io/typing-svg) <a href="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/buymeacoffee.jpg" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="140" align="right" > </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7AA71&center=true&width=450&height=30&lines=Don't+bank+on+others'+victory.++;Forge+your+own+path%2C+make+history.)](https://git.io/typing-svg)  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwcnA4eXRnOGZxZDR6dXl4ZG1qMDRzOWF0amo0cGVtcnk5cnlrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4oWkzyVeVgTwKQ/giphy.gif" height="35" width="35" align="right" > <a href="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/buymeacoffee.jpg" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="35" width="140" align="right" > </a>
