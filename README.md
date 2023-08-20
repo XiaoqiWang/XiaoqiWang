@@ -1,7 +1,4 @@
-<h2><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Hey there! Delighted to cross paths with you! </h2>
-
-
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <align="center"><a href="https://XiaoqiWang.github.io/"><img width="80%" src="https://en.bloggif.com/tmp/c2a4b0bfc8143000055524cb0fa2e6a0/text.gif" /></a></h2>
 <img align="right" width=448 height=252 src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/img.gif" />
 <h2>⚡️ About Me </h2>
 <ul>
@@ -22,5 +19,6 @@ Hey there! Delighted to cross paths with you! </h2>
   </div>
 <hr/>
        
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7AA71&center=true&width=450&height=30&lines=Don't+bank+on+others'+victory.++;Forge+your+own+path%2C+make+history.)](https://git.io/typing-svg)  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwcnA4eXRnOGZxZDR6dXl4ZG1qMDRzOWF0amo0cGVtcnk5cnlrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4oWkzyVeVgTwKQ/giphy.gif" height="35" width="35" align="right" > <a href="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/buymeacoffee.jpg" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="35" width="140" align="right" > </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7AA71&center=true&width=450&height=30&lines=Don't+bank+on+others'+victory.++;Forge+your+own+path%2C+make+history.)](https://git.io/typing-svg)  <img src="https://vbr.wocr.tk/badge?page_id=XiaoqiWang-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=Snapchat&logoColor=FFFC00" height="35" width="140" align="right"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwcnA4eXRnOGZxZDR6dXl4ZG1qMDRzOWF0amo0cGVtcnk5cnlrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4oWkzyVeVgTwKQ/giphy.gif" height="35" width="35" align="right" > <a href="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/buymeacoffee.jpg" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="35" width="140" align="right" > </a> 
+
