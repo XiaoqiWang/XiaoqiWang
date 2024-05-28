@@ -2,8 +2,8 @@
 <img align="right" width=448 height=252 src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/img.gif" />
 <h2>⚡️ About Me </h2>
 <ul>
-<li> I'm xiaoqi, a PhD student at <a href="https://www.sysu.edu.cn/"><strong>SYSU</strong></a>.</li>
-<li> Previously, I obtained my M.Eng. degree from <a href="http://www.njupt.edu.cn/en/"><strong>NJUPT</strong></a>.</li>
+<li> I'm xiaoqi, a Ph.D. student at <a href="https://www.sysu.edu.cn/"><strong>SYSU</strong></a>.</li>
+<!-- <li> Previously, I obtained my M.Eng. degree from <a href="http://www.njupt.edu.cn/en/"><strong>NJUPT</strong></a>.</li> -->
 <li> My research interests include <strong>computer vision, multimodal learning</strong>, and <strong>visual quality assessment</strong>.
 <li> My athletic passions encompass <strong>🏀</strong>, <strong>🏸</strong>, and <strong>🏃</strong>.
 </ul>
