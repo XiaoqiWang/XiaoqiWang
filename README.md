@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <align="center"><a href="https://XiaoqiWang.github.io/"><img width="80%" src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/hello.gif" /></a></h2>
-<img align="right" width=448 height=252 src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/img.gif" />
+<!--<img align="right" width=448 height=252 src="https://github.com/XiaoqiWang/XiaoqiWang/blob/main/img.gif" /> -->
 <h2>⚡️ About Me </h2>
 <ul>
 <li> I'm xiaoqi, a Ph.D. student at <a href="https://www.sysu.edu.cn/"><strong>SYSU</strong></a>.</li>
